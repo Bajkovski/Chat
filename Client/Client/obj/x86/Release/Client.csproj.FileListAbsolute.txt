@@ -1,0 +1,14 @@
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\bin\Release\Client.exe
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\bin\Release\Client.pdb
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\obj\x86\Release\CliensMessage.baml
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\obj\x86\Release\MainWindow.baml
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\obj\x86\Release\CliensMessage.g.cs
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\obj\x86\Release\MainWindow.g.cs
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\obj\x86\Release\App.g.cs
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\obj\x86\Release\Client_MarkupCompile.cache
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\obj\x86\Release\Client.g.resources
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\obj\x86\Release\Client.Properties.Resources.resources
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\obj\x86\Release\Client.csproj.GenerateResource.cache
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\obj\x86\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\obj\x86\Release\Client.exe
+C:\Users\Bajkovszkij\Documents\Távközlőhál\Client\Client\obj\x86\Release\Client.pdb
